@@ -161,17 +161,26 @@ http://localhost:8501
 📁 Project Structure
 
 RagBased-pdfInteraction-chatbot/
-│
-├── chatpdf1.py
-├── requirements.txt
-├── README.md
-├── .env.example
-├── .gitignore
-│
-└── 📁 faiss_index/
-    ├── index.faiss
-    └── index.pkl
 
+│
+
+├── chatpdf1.py
+
+├── requirements.txt
+
+├── README.md
+
+├── .env.example
+
+├── .gitignore
+
+│
+
+└── 📁 faiss_index/
+
+    ├── index.faiss
+    
+    └── index.pkl
 
 🎯 Project Objectives: 
 
