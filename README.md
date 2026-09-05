@@ -159,17 +159,15 @@ http://localhost:8501
 9.	Expand 📖 View Retrieved Sources to see the supporting PDF pages.
 
 📁 Project Structure
-
 RagBased-pdfInteraction-chatbot/
 │
-├── 📄 chatpdf1.py
-├── 📄 requirements.txt
-├── 📄 README.md
-├── 📄 .env.example
-├── 📄 .gitignore
+├──  chatpdf1.py
+├──  requirements.txt
+├──  README.md
+├──  .env.example
+├──  .gitignore
 │
 └── 📁 faiss_index/
-
     ├── index.faiss
     └── index.pkl
 
