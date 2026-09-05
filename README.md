@@ -25,7 +25,7 @@ Technology	Purpose
 -> pdfplumber	PDF text extraction
 -> python-dotenv	Environment variable management
 
-=> How It Works
+How It Works =>
                 PDF Upload
                      │
                      ▼
@@ -59,6 +59,7 @@ Technology	Purpose
                Source Pages
 
 🔄 RAG Pipeline
+
 The application follows these main steps:
 1️. Upload PDF
 Users upload one or more PDF documents through the Streamlit interface.
@@ -130,7 +131,7 @@ RagBased-pdfInteraction-chatbot/
     ├── index.faiss
     └── index.pkl
 
-🎯 Project Objectives
+🎯 Project Objectives: 
 This project demonstrates practical implementation of:
 •	Retrieval-Augmented Generation (RAG)
 •	Large Language Models (LLMs)
@@ -143,7 +144,7 @@ This project demonstrates practical implementation of:
 •	Generative AI
 •	Streamlit application development
 
-🔮 Future Improvements
+🔮 Future Improvements: 
 Some possible improvements include:
 •	 Deploy the application online
 •	 Add chat history and conversational memory
@@ -155,9 +156,13 @@ Some possible improvements include:
 •	 Add OCR support for scanned PDFs
 
 👨‍💻 Author : VANETHA A C K
+
 Connect With Me
+
 •	 LinkedIn: www.linkedin.com/in/vanetha24
+
 •	 GitHub: https://github.com/vanetha24
+
 •	 Email: vvanetha633@gmail.com 
 
 ⭐ If You Like This Project
